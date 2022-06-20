@@ -1,0 +1,57 @@
+- boxes:
+  - {label: Green, occluded: false, x_max: 752.25, x_min: 749.0, y_max: 355.125, y_min: 345.125}
+  path: ./rgb/test/24068.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 752.625, x_min: 748.875, y_max: 354.25,
+    y_min: 343.375}
+  path: ./rgb/test/24070.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 753.875, x_min: 750.0, y_max: 355.625,
+    y_min: 346.375}
+  path: ./rgb/test/24072.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 754.5, x_min: 750.875, y_max: 359.375,
+    y_min: 349.25}
+  path: ./rgb/test/24074.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 754.75, x_min: 751.0, y_max: 361.875, y_min: 351.5}
+  path: ./rgb/test/24076.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 755.625, x_min: 751.375, y_max: 363.375,
+    y_min: 353.0}
+  path: ./rgb/test/24078.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 755.5, x_min: 752.375, y_max: 363.0, y_min: 353.875}
+  path: ./rgb/test/24080.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 755.625, x_min: 752.375, y_max: 364.125,
+    y_min: 354.5}
+  path: ./rgb/test/24082.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 755.75, x_min: 752.0, y_max: 364.625, y_min: 355.0}
+  path: ./rgb/test/24084.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 756.0, x_min: 752.25, y_max: 366.625, y_min: 356.875}
+  path: ./rgb/test/24086.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 755.875, x_min: 752.625, y_max: 367.25,
+    y_min: 358.0}
+  path: ./rgb/test/24088.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 756.375, x_min: 753.0, y_max: 366.75, y_min: 357.625}
+  path: ./rgb/test/24090.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 756.625, x_min: 753.0, y_max: 365.0, y_min: 355.875}
+  path: ./rgb/test/24092.png
+- boxes:
+  - {label: Green, occluded: false, x_max: 756.75, x_min: 753.5, y_max: 364.5, y_min: 355.75}
+  path: ./rgb/test/24094.png
+- boxes:
+  - {label: Green, occluded: true, x_max: 756.625, x_min: 754.0, y_max: 362.5, y_min: 354.5}
+  path: ./rgb/test/24096.png
+- boxes:
+  - {label: Green, occluded: true, x_max: 756.5, x_min: 753.25, y_max: 361.875, y_min: 354.125}
+  path: ./rgb/test/24098.png
+- boxes:
+  - {label: Green, occluded: true, x_max: 757.5, x_min: 753.625, y_max: 362.625, y_min: 353.75}
+  path: ./rgb/test/24100.png
